@@ -8,7 +8,8 @@ Un conteneur en panne peut rester actif sans redémarrage.
 
 Cela peut provoquer des erreurs clients, du trafic inutile, ou des ressources CPU/RAM consommées inutilement.
 
-## Impact sur l'empreinte carbone
+== Impact sur l'empreinte carbone
+
 Evite le trafic inutile vers des pods non opérationnels.
 
 Réduit le nombre de redémarrages manqués ou mal gérés.
